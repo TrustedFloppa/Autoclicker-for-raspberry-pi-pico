@@ -1,1 +1,1 @@
-# Autoclicker-for-raspberry-pi-pico
+# Autoclicker for Raspberry Pi Pico 2020
